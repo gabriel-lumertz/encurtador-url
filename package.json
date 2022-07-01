@@ -1,0 +1,31 @@
+{
+  "name": "encurtador-url",
+  "version": "1.0.0",
+  "description": "Encurtador de URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-lumertz/encurtador-url.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "encuratdor",
+    "url"
+  ],
+  "author": "Gabriel Lumertz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-lumertz/encurtador-url/issues"
+  },
+  "homepage": "https://github.com/gabriel-lumertz/encurtador-url#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^1.3.3",
+    "typescript": "^4.7.4"
+  }
+}
